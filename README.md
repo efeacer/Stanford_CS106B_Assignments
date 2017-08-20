@@ -1,12 +1,14 @@
 # CS106B_Assignments-
 The codes for the assignments I have undertaken for the CS106B (Programming Abstractions in C++) course,
-in Stanford University. The assignment topics are as follows:
+in Stanford University. I've provided my own solutions and inputs only, no project files... 
+The assignment topics are as follows:
 
 Assignment 1: Pixel manipulation using Grid and Vector data structures.
 
 Assignment 2: Breadth first search, file reading, and random text generation throuh Markov chains.
 
-Assignment 3: Fractal graphics using recursion (fractals such as Sierpinski, Tree and Mandelbrot Set)
+Assignment 3: Fractal graphics using recursion (fractals such as Sierpinski, Tree and Mandelbrot Set), grammar structure
+solver using recursive exploration.
 
 Assignment 4: Code for the game Boggle(human vs computer), uses recursive backtracking to explore words 
 in a boggle game grid.
