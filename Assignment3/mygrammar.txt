@@ -1,0 +1,11 @@
+<s>::=<np> <vp>
+<np>::=<dp> <adjp> <n>|<pn>
+<dp>::=the|a
+<adjp>::=<adj>|<adj> <adjp>
+<adj>::=handsome|little|beautiful|exciting|hard-working|lazy|drunk
+<n>::=programmer|computer|keyboard|student|dog|cat|telephone|desk|exam|school
+<pn>::=Efe|Ryan|Anvit|Chris|Jason|Christopher|(Imnotgoodatenglishgrammar!=D)
+<pm>::=.|!|?|…
+<vp>::=<tv> <np>|<iv>
+<tv>::=hit|honored|kissed|helped|kicked|rewarded
+<iv>::=died|collapsed|laughed|passed|programmed|walked|asked <pm>
