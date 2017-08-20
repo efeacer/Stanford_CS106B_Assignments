@@ -1,4 +1,4 @@
-# CS106B_Assignments-
+# CS106B_Assignments
 The codes for the assignments I have undertaken for the CS106B (Programming Abstractions in C++) course,
 in Stanford University. I've provided my own solutions and inputs only, no project files... 
 The assignment topics are as follows:
