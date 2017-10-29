@@ -5,7 +5,7 @@ The assignment topics are as follows:
 
 Assignment 1: Pixel manipulation using Grid and Vector data structures.
 
-Assignment 2: Breadth first search, file reading, and random text generation throuh Markov chains.
+Assignment 2: Breadth first search, file reading, and random text generation through Markov chains.
 
 Assignment 3: Fractal graphics using recursion (fractals such as Sierpinski, Tree and Mandelbrot Set), grammar structure
 solver using recursive exploration.
